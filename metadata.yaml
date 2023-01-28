@@ -1,11 +1,16 @@
 _repo: A-Christmas-snowflake-a-rhyme-for-children_69772
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69772-h/images/cover.jpg
 creator:
   author:
     agent_name: Granniss, Anna J.
     gutenberg_agent_id: '55413'
     url: http://www.gutenberg.org/2009/agents/55413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69772#A-Christmas-snowflake-a-rhyme-for-children
 gutenberg_issued: '2023-01-11'
 identifiers:
   gutenberg: '69772'
